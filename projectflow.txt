@@ -72,6 +72,7 @@
          >> Set env var from powershell terminal: <<
          $env:AWS_ACCESS_KEY_ID="AWS_ACCESS_KEY_ID"
          $env:AWS_SECRET_ACCESS_KEY="AWS_SECRET_ACCESS_KEY"
+
          >> Check env var from powershell terminal: <<
          echo $env:AWS_ACCESS_KEY_ID
          echo $env:AWS_SECRET_ACCESS_KEY
