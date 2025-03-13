@@ -135,5 +135,5 @@ $env:MONGODB_URL = "mongodb+srv://<username>:<password>@cluster.mongodb.net"
 
 ✅ **Tech Stack Used:** Python, FastAPI, MongoDB, AWS S3, Docker, GitHub Actions, TensorFlow/PyTorch, CI/CD.
 
-🔗 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yashkumar-natholia) | [GitHub](https://github.com/Yashkumar-Natholia)
+
 
